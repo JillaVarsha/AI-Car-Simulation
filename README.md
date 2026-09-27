@@ -91,7 +91,6 @@ AI-Car-Simulation/
 ├── config.txt
 ├── car.png
 ├── map.png
-└── README.md
 ```
 
 ### File Description
